@@ -4,7 +4,7 @@ Un projet Java de gestion d'un centre de formation développé dans le cadre d'u
 
 ## Description
 
-Application de gestion complète pour un centre de formation permettant de gérer les personnes, les formateurs, les formations et les inscriptions. Le projet inclut une interface graphique développée avec Java Swing.
+Application de gestion complète pour un centre de formation permettant de gérer les étudiants, les formateurs, les formations et les inscriptions. Le projet inclut une interface graphique développée avec Java Swing.
 
 ## Fonctionnalités
 
