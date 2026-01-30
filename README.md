@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Gestion Centre de Formation
 
 Un projet Java de gestion d'un centre de formation développé dans le cadre d'un TP académique.
