@@ -16,13 +16,9 @@ Application de gestion complète pour un centre de formation permettant de gére
 - **Interface graphique Swing**
 - **Exécution en console ou GUI**
 
-## Technologies utilisées
+## Packaging
 
-**Langage** : Java
-
-**Interface graphique** : Swing
-
-**Build** : JAR exécutable
+JAR exécutable
 
 
 ## Installation et utilisation
