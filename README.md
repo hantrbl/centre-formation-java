@@ -56,4 +56,3 @@ java -jar CentreFormation.jar
 - Système d'authentification
 - Export des données (PDF, Excel)
 - Recherche et filtrage avancés
-=======
