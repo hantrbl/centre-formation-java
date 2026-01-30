@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Gestion Centre de Formation
 
 Un projet Java de gestion d'un centre de formation développé dans le cadre d'un TP académique.
@@ -59,3 +60,6 @@ java -jar CentreFormation.jar
 - Système d'authentification
 - Export des données (PDF, Excel)
 - Recherche et filtrage avancés
+=======
+# centre-formation-java
+>>>>>>> ea4b781e130f407167e08213d53cf3c9c45886f5
