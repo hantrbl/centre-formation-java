@@ -20,13 +20,6 @@ Application de gestion complète pour un centre de formation permettant de gére
 
 JAR exécutable
 
-
-## Installation et utilisation
-
-### Prérequis
-
- Java JDK 8 ou supérieur installé sur votre machine
-
 ### Exécution du fichier JAR
 
 ```bash
